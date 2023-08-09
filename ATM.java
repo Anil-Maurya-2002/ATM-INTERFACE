@@ -48,7 +48,6 @@ class Data{
     public void menu(Data obj){
         System.out.println("******************************************************************************");
         System.out.println("Enter your choice");
-
         System.out.println("1 . Check balance");
         System.out.println("2 . Withdraw money");
         System.out.println("3 . Deposit money");
