@@ -1,4 +1,4 @@
-#  Banking Management System (ATM-INTERFACE)
+#   ATM-INTERFACE
 
  Banking Interface System in java
 
